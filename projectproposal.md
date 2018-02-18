@@ -7,7 +7,7 @@ bigimg: /img/art_graphic.jpg
 
 ## MOTIVATIONS
 
-Williams campus has the potential to have a very vibrant creative community. However, currently there is no structure in place to facilitate this. Art (in any form: visual, musical, spoken word, etc.) has always been a very separate part of campus. Additionally, the different types of art have always felt very disparate (visual stays in the studio art building or art museums, music stays in the music department, etc.). It would be great to have a some sort of platform that can foster a creative community.
+Williams campus has the potential to have a very vibrant creative community. However, currently there is no structure in place to facilitate this. Art (in any form: visual, musical, spoken word, etc.) has always been a very separate part of campus. Additionally, the different types of art have always felt very disparate (visual stays in the studio art building or art museums, music stays in the music department, etc.). It would be great to have a some sort of platform that can foster a creative community. Based on Dawn's [original project proposal](https://mang-bro.github.io/projectproposal/)
 
 ## THE PRODUCT
 
