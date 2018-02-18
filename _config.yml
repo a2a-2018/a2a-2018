@@ -23,6 +23,7 @@ description: Local Art Platform
 
 # List of links in the navigation bar
 navbar-links:
+  About the Team: "about"
   Team Contract: "teamcontract"
   Group Project Proposal: "projectproposal"
 
