@@ -3,11 +3,6 @@ layout: page
 title: Team Contract
 ---
 
----
-layout: page
-title: Team Contract
----
-
 ## Guiding Principles
 1. Mutual respect
 2. Consider all ideas 
