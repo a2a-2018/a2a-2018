@@ -9,6 +9,8 @@ Williams College Class of 2019
 
 Designer, user researcher, rotating project manager
 
+Quan Do needs to tell the general public about himself.
+
 [Visit Quan's website](https://dhmquan.github.io/)
 
 ### Grace Mazzarella
@@ -28,5 +30,7 @@ Williams College Class of 2019
 Original project proposer
 
 Designer, user researcher, rotating project manager
+
+Dawn Wu needs to tell the public about herself.
 
 [Visit Dawn's website](https://mang-bro.github.io/)
