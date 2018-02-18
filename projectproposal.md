@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Group Project Proposal
-subtitle: Introducing: a2a
-bigimg: /img/art_graphic.jpg
 ---
 
 ## MOTIVATION
