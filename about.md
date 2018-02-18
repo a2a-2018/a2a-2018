@@ -25,7 +25,7 @@ Grace Mazzarella was home schooled until high school. She attended East Catholic
 
 ### Dawn Wu
 
-Williams College Class of 2019
+Williams College Class of 2018
 
 Original project proposer
 
