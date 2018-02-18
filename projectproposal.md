@@ -19,3 +19,9 @@ There is currently a mobile app called Trill (sample images in Fig. 1). It works
 ![Figure 1](/img/trill.jpg)
 <center> Figure 1 </center>
 
+### Images
+
+1. [Header Image](https://helpx.adobe.com/content/dam/help/en/photoshop/how-to/graphic-design-basics/_jcr_content/main-pars/image/5407-graphic-design-basics_1408x792.jpg)
+
+2. [Trill App](https://thumbor.forbes.com/thumbor/960x0/smart/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinawallace%2Ffiles%2F2016%2F12%2FTrill-1-1200x822.jpg%3Fwidth%3D960) 
+
