@@ -9,7 +9,7 @@ Williams College Class of 2019
 
 Designer, user researcher, rotating project manager
 
-Quan Do needs to tell the general public about himself.
+Quan Do is from Ho Chi Minh City, Vietnam. 
 
 [Visit Quan's website](https://dhmquan.github.io/)
 
