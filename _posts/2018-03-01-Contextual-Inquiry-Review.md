@@ -31,46 +31,46 @@ To help people reach out within the art community, we could design a forum-like 
 
 ### Task analysis questions
 
-1. Who is going to use the design?
+* Who is going to use the design?
 
    Right now we're mainly design with students and local artists in mind, but this could easily be expanded to include potential employers.
-
-2. What tasks do they now perform?
+   
+* What tasks do they now perform?
    
    Student-artists create art in all media mainly on campus for classes, as academic time constraints limit their free time for side projects.  Local artists also create on campus, and share with their own friend circles, but not much outside of that.  Both groups do collaborations, but mainly with those with whom they already share personal connection. Art-interested students enjoy art on campus when an event catches their notice.  Currently, potential employers have some difficulty reaching students.
-
-3. What tasks are desired?
+   
+* What tasks are desired?
 
   Recurring desires include ways to discover art and potential collaborators, means of communication aimed at artists who don't know each other, a forum for discussion, and a centralized source of event information.
 
-4. How are the tasks learned?
+* How are the tasks learned?
    
    Currently, artists must rely on personal connection and word of mouth to initiate collaboration, and everyone must rely on scattered, independent, and non-uniform sources of information to discover art-related events on campus.
 
-5. Where are the tasks performed?
+* Where are the tasks performed?
    
    Many visual artists work in Spencer Art studio, while actors and dancers rehearse in the '62 Center.  Musicians practice in Brooks-Rogers and perform either there or in Chapin, and writers work wherever pleases them most.  Communication occurs via email or direct message, and events are advertised via Daily Messages, the Social Calendar, Facebook, and physical posters.
 
-6. What is the relationship between the person and data?
+* What is the relationship between the person and data?
 
    A2A could implement a commenting method for galleries so that artists can learn how others view their work. Users could also monitor A2A's dynamic calender, allowing events to be advertised and the information surrounding them to be kept accurate.
 
-7. What other tools does the person have?
+* What other tools does the person have?
    
    In addition to A2A, users would also have the work-arounds that exist now - Daily Messages, Facebook, and the Social Calender for events, and messaging applications, email, social circles, and word of mouth for communication.
 
-8. How do people communicate with each other?
+* How do people communicate with each other?
 
    Through A2A, users could communicate via discussion forum and direct message, as well as through user profiles.
 
-9. How often are the tasks performed?
+* How often are the tasks performed?
 
    Users may use A2A as their free time allows.
    
-10. What are the time constraints on the tasks?
+* What are the time constraints on the tasks?
 
    Because A2A is live, users may need to wait for responses. For example, if a user proposes an event to add to the calendar, a moderator must verify that the event exists. Or, if a user posts a collaboration idea, they must wait for it to catch someone's notice in order to begin discussion.
    
-11. What happens when things go wrong?
+* What happens when things go wrong?
 
    A2A supports freedom of speech and expression of opinions, and recognizes that sometimes art offends people and that feelings may be hurt.  A2A's moderators will quietly monitor things that seem potentially problematic and/or have been reported, and if discussion becomes inappropriate, moderators may need to bring offenders before the Deans.
