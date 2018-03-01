@@ -39,48 +39,48 @@ Affinity diagramming helps consolidate input data into themes.
 
 1. Who is going to use the design?
 
-...At the moment, mainly students who are involved in or interested in the arts in any capacity, but this could easily be expanded to non-student, local artists and potential employers.
+⋅⋅⋅At the moment, mainly students who are involved in or interested in the arts in any capacity, but this could easily be expanded to non-student, local artists and potential employers.
 
 2. What tasks do they now perform?
 
-...Artist-students create art on campus, mostly for class, few are motivated to create outside of academics because of shortage of time. Local artists also create art on campus and share their creations within their own friend circles, but not much outside of that. Both do collaborations, but mostly with people that they already know and are friendly with. Students that are interested in art but do not create vaguely enjoy art on campus when they hear about an event and are interested in it. Potential employers… look for artists to employ (with much trouble).
+⋅⋅⋅Artist-students create art on campus, mostly for class, few are motivated to create outside of academics because of shortage of time. Local artists also create art on campus and share their creations within their own friend circles, but not much outside of that. Both do collaborations, but mostly with people that they already know and are friendly with. Students that are interested in art but do not create vaguely enjoy art on campus when they hear about an event and are interested in it. Potential employers… look for artists to employ (with much trouble).
 
 3. What tasks are desired?
 
-...Discover art, discover artists, communicate with artists, collaborate with artists, critique artwork, discuss ideas, contact artists for hire. 
+⋅⋅⋅Discover art, discover artists, communicate with artists, collaborate with artists, critique artwork, discuss ideas, contact artists for hire. 
 
 
 4. How are the tasks learned?
 
-...The tasks are learned through discovering needs driven by creative incentive (discovery, communication, collaboration, critiquing, etc.). 
+⋅⋅⋅The tasks are learned through discovering needs driven by creative incentive (discovery, communication, collaboration, critiquing, etc.). 
 
 5. Where are the tasks performed?
 
-...Most of these tasks are rarely performed, but over messaging/e-mail, in shared spaces such as Spencer Art building, and over the web. 
+⋅⋅⋅Most of these tasks are rarely performed, but over messaging/e-mail, in shared spaces such as Spencer Art building, and over the web. 
 
 6. What is the relationship between the person and data?
 
-...They either use data to discover, experience, or reach out / communicate. 
+⋅⋅⋅They either use data to discover, experience, or reach out / communicate. 
 
 7. What other tools does the person have?
 
-...Daily messages, E-mail, Word of Mouth, social circles. 
+⋅⋅⋅Daily messages, E-mail, Word of Mouth, social circles. 
 
 8. How do people communicate with each other?
 
-...Facebook Messenger and E-mail
+⋅⋅⋅Facebook Messenger and E-mail
 
 9. How often are the tasks performed?
 
-...Whenever they need to????
+⋅⋅⋅Whenever they need to????
 
 10. What are the time constraints on the tasks?
 
-...Other classes and responsibilities at Williams????
+⋅⋅⋅Other classes and responsibilities at Williams????
 
 11. What happens when things go wrong?
 
-...I DON’T KNOW OKAY
+⋅⋅⋅I DON’T KNOW OKAY
 
 
 
