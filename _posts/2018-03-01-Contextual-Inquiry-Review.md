@@ -74,7 +74,7 @@ Affinity diagramming helps consolidate input data into themes.
    Whenever they need to????
 
 10. What are the time constraints on the tasks?
-   
+
    Other classes and responsibilities at Williams????
 
 11. What happens when things go wrong?
