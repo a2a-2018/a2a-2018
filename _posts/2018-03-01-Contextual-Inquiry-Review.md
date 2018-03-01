@@ -66,11 +66,11 @@ To help people reach out within the art community, we could design a forum-like 
 9. How often are the tasks performed?
 
    Users may use A2A as their free time allows.
-
+   
 10. What are the time constraints on the tasks?
 
    Because A2A is live, users may need to wait for responses. For example, if a user proposes an event to add to the calendar, a moderator must verify that the event exists. Or, if a user posts a collaboration idea, they must wait for it to catch someone's notice in order to begin discussion.
-
+   
 11. What happens when things go wrong?
 
    A2A supports freedom of speech and expression of opinions, and recognizes that sometimes art offends people and that feelings may be hurt.  A2A's moderators will quietly monitor things that seem potentially problematic and/or have been reported, and if discussion becomes inappropriate, moderators may need to bring offenders before the Deans.
