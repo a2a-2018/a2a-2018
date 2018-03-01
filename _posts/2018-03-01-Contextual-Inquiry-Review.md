@@ -80,7 +80,3 @@ Affinity diagramming helps consolidate input data into themes.
 11. What happens when things go wrong?
 
    I DON’T KNOW OKAY
-
-
-
-
