@@ -39,7 +39,7 @@ Affinity diagramming helps consolidate input data into themes.
 
 1. Who is going to use the design?
 
-⋅⋅⋅At the moment, mainly students who are involved in or interested in the arts in any capacity, but this could easily be expanded to non-student, local artists and potential employers.
+   At the moment, mainly students who are involved in or interested in the arts in any capacity, but this could easily be expanded to non-student, local artists and potential employers.
 
 2. What tasks do they now perform?
 
