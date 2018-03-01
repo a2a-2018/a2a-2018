@@ -7,7 +7,7 @@ tags: [assignment, CI, contextual inquiry, review]
 
 While we still have some meetings scheduled past the due date of this assignment, the data that we’ve gathered so far reveals a few main themes.  The two biggests concepts pertinent to the project design are that artists want to be able to communicate easily with people outside their social circles, and that in general, people are interested in a centralized platform to discover art-related events on campus. Another big find that we have discovered is that it is quite difficult to conduct contextual inquiries to find out user needs from a community that we want to build, but does not yet exist yet. 
 
-###Contextual Inquiry Participants
+### Contextual Inquiry Participants
 As of February 27, we have done five interviews with contextual inquiry components, but still have two other interviews and a contextual inquiry of two dancers beginning a collaboration scheduled for after this portion of the project is due.  Our participants were both artists and non-artists who are interested in the arts.  After our first meeting, which ended up being more of an interview than a contextual inquiry, we modified our format to emphasize our participants walking us through the physical process of how they have connected with artists to collaborate or discovered art-related events, and made sure to ask them many questions, such as what about certain events caught their eye or interest, or what about some information source they were using particularly caught their interest.  
 
 **KS** is a student interested in art, but do not participate in creating works. We started off asking them a few interview questions, which revealed that they mainly use Facebook and Social Calendar to learn about nearby arts events/performances. They then proceeded to walk us through how they parse through information on their phone: On Facebook, KS looked for events that their friends are also going to, as they are less likely to go to an event alone. KS also noted that Social Calendar works because they don’t like to have a lot of apps on their phone, so a centralized, streamlined non-app format is great. KS really wants to know more about art events and club opportunities out there, but would not go out of their way to search for them, due to limited time.
@@ -20,7 +20,7 @@ As of February 27, we have done five interviews with contextual inquiry componen
 
 **DP** works at Williams as the Spencer Studio Art assistant and also a local artist whose main practice is in oil and acrylic painting. DP’s is an interesting blend between our user cases because they are a local artist that interacts with the out of Williams’ community but also interact with students and professors daily while they do their job for the Studio Art department (they are involved with ordering materials for students). We interviewed DP in their office in the studio building, right across from the paint studio. We chose this location because this is where DP interacts with most studio students, as he has informal office hours for material information and ordering. DP’s door and office hours were open while we conducted the contextual inquiry, but it was not a very busy day for them. While we waited, we had DP retroactively walk through their process of showcasing their art: also through a personal website. We watched DP upload a faux image to show how they keep their website updated. Towards the end we ended up chatting about the current ‘creative’ community at Williams. In DP’s mind, the creative community exists as much in Williamstown as it does in North Adams. Apparently, a lot of artists move from New York City because the cost of living is too high, and prefer to create art here instead - Mass MoCa being the main attraction. DP talked a lot about the hierarchy and exclusiveness of difference circles within the community, the hierarchy created from job prestige on campus (Williams Professor vs. Assistant). DP also mentioned that they are very intrigued by student’s work in that their ideas are expansive, unhindered, and innovative. DP is also a large advocate of cross-generational collaborative art. 
 
-###Contextual inquiry themes & process
+### Contextual inquiry themes & process
 Identify high level themes the participants share in their practices from an affinity diagram.
 Artists want a way to easily reach out to acquaintances/people they don’t know directly and have discussions, request critiques, and view collaboration opportunities
 Art can feel pretty solitary (this came from a poet and a graphic designer)
@@ -35,7 +35,7 @@ A way to discover other artists
 Describe your process for identifying these themes.
 Affinity diagramming helps consolidate input data into themes.
 
-###Task analysis questions
+### Task analysis questions
 Who is going to use the design?
 
 At the moment, mainly students who are involved in or interested in the arts in any capacity, but this could easily be expanded to non-student, local artists and potential employers.
