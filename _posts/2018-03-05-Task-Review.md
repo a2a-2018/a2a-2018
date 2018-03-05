@@ -15,7 +15,7 @@ Eli is an English and Studio Art major who produces art for class and in their s
 
 **Showcase work through one central platform** - (new task, medium)
 
-Frankie is a local artist in the Williamstown area. They want to be able to have a centralized place
+Frankie is a local painter in the Williamstown area. He uses this website to upload photos of his paintings and and organize his paintings in a thematic manner. He has the website because he wants a place for other people to see his art. He mostly wants potential employers to be able to look through his website and see what kind of art he does. He has also included contact information on his website for this reason. Frankie likes his website because he has the flexibility of showing his artwork exactly the way he wants, but wishes there was a way to somehow make his website more discoverable. 
 
 **Sort and filter art-related events by personal interest** - (new task, medium)
 
