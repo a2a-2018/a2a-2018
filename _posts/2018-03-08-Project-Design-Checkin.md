@@ -59,3 +59,19 @@ To partake in discussion, a user may browse either the "Newest" or "Hot Now" sec
 In this particular design, collaborations are forum posts with a special forum "collaboration" flag that easily differentiates these types of posts from others. Users can filter for this flag and browse artists' ideas and help wanted requests, and can flag their own posts to advertise it as this type. A collaboration post page functions the same as a regular discussion thread.
 
 To showcase artwork, a user can upload a file of their choosing under their name, building up their own personal portfolio and sharing it with the community. Artworks are immediately featured under the "Newest" section, and, if they grow in popularity, under the "Hot Now" section. Users can navigate to an artwork's page by touching its card in either the "Newest", "Hot Now", or "Browse Art" sections. An artwork's page features the artist's work, as well as any additional information that is provided at the artist's whim. The artist may turn on and off the ability for users to comment on their work at will, either for their entire portfolio or for a specific work.
+
+***DESIGN 3***
+
+This last design encorporates using both a web-based app and a mobile app, but with different functionality on each. Additionally, this design encorporates the concept of points. Points exist so that there exists something all users can share. Points can be given for creating and sharing art, collabing, going to events, discussing in forums, etc. Finally, points can only buy "items" go give others. "Items" is a placeholder for whatever can be digitally shared over this platform (stickers, animations, fun stuff, etc.).
+
+Shown in Figure 1 is a web interface. As one can see, the user is first introduced to a feed, which could contain recent art and coming events. On the unselected tab, a Forum feature exists so that community members can discuss (collaborations, ideas, current events, etc.). On the upper right hand corner, a user can see their notifications (maybe notifying them of a coming event they want to go to or if they got points from their mobile interaction - to be explained later), direct messages with other community members, a user profile page, and points. 
+
+![Figure 1]\img\d3-1.jpg
+
+Shown in Figure 2 is the first functionality of the mobile interface: the ability to sign into an event. This could be a good way to award points for attending events, but this can be tweaked. The point of being able to sign / check into an event is to access something that is both shared and live. This design features a live chat, open to anyone that has signed into the event. The hamburger bars hide the rest of the functionality of the app, which will be discussed in the next section. 
+
+![Figure 2]\img\d3-2.jpg
+
+Shown in Figure 3 is the regular functionality of the mobile interface: a mobile-friendly version of the web app. The mobile app in the Figure 3 opens on a Feed, similar to the web app. The hamburger icon hides the rest of the functionalities, which are the same as the functionalities available to the web app. 
+
+![Figure 3]\img\d3-3.jpg
