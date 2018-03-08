@@ -45,3 +45,7 @@ On the forum page, users can share their thoughts on the latest happenings or bi
 
 ![Website's Group Page](/img/Website-4.jpg)
 The group page provides a more private place for groups to share artworks and discuss ideas (improvement on tasks 2 and 6). The group page shows all the groups that a user is in, organized by the filters at the top of the page. Clicking/tapping on a filter displays the private dashboard of that group. A group dashboard is similar to the main dashboard in the main page, except that (1) it is only viewable by group members and (2) group leaders can pin important posts to the top of the dashboard. This acts as both a big forum for large groups and a common workspace for small groups.
+
+***DESIGN 2***
+
+![A Mobile Interface](/img/Grace_Combo_Design.jpg)
