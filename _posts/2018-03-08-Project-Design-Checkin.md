@@ -31,8 +31,21 @@ Mark is a Comparative Literature major who enjoys relaxing after a long week by 
 Mai is a student dancer developing a piece for her choreography tutorial.  This process includes costuming, but she doesn’t know how to draw and isn’t even interested in designing.  She’s asked her friends if they know anyone interested in costume design, and they suggest talking to the Art department, studio art majors, and the costume shop.  However, Mai doesn’t know any of these people, and neither do her friends.  She can email some professors and the shop managers to see if they can point her in a direction, but she knows that even if they give her recommendations, there’s no guarantee that these people would be interested in working with her.
 
 ***DESIGN 1***
-The first design is a website that acts a dashboard for individuals and groups to post works as well as performance events. The website format allows the content to be easily accessible via a browser on both computer and mobile platforms. Additionally, the website also supports forum discussions/collaboration postings, direct messages, and group organizing.
+
+The first design is a website that acts as a dashboard for individuals and groups to post works and events. The website format allows content to be easily accessible via a browser on both computer and mobile platforms. Additionally, the website also supports forum discussions/collaboration postings, direct messages, and group organizing.
 
 ![Website's Landing Page](/img/Website-1.jpg)
 
-Users would spend most of their time on browsing through posts on our main landing page. Posts have 2 forms: content posts and event posts. Content posts might be artworks, performance videos, writing, etc. Event posts provide information on events coming up. From this main page, people can discover local art and events (task 5) and sort through the different categories of posts through the line of filters above the dashboard (task 4). People can click/tap on a post to expand and get more on the post, leave comment on the post, or follow the events/artists/groups.
+Users would spend most of their time browsing through posts on our main page. Posts have 2 forms: content posts and event posts. Content posts might be artworks, performance videos, writing, etc. Event posts provide information on upcoming events. From this page, people can discover local art and events (task 5) and sort through the different categories of posts through the line of filters above the dashboard (task 4). People can click/tap on a post to expand and get more info, leave comments, or follow the events/artists/groups. Clicking/tapping on a user/group profile shows a dropdown menu with the option to send a direct message (task 1).
+
+![Website's Inbox/DM Page](/img/Website-2.jpg)
+
+A sidebar to the right of every page allows users to navigate to other functionalities (to go back to the landing page, simply click/tap the site logo). The inbox page is organized into a side-way tabbed view with the contact list on the left. Users can send and receive direct messages (task 1).
+
+![Website's Forum Page](/img/Website-3.jpg)
+
+On the forum page, users can share their thoughts on the latest happenings in/outside the local art community (task 2). They can also use this platform to discuss new art ideas as well as create postings calling for collaborations (task 6). Users can bookmark, upvote, downvote, and respond to any threads of interest.
+
+![Website's Group Page](/img/Website-4.jpg)
+
+The group page provides a more private place for groups to share artworks and discuss ideas (improvement on tasks 2 and 6). The group page shows all the groups that a user is in, organized by the filters at the top of the page. Clicking/tapping on a filter displays the private dashboard of that group. A group dashboard is similar to the main dashboard in the main page, except that (1) it is only viewable by group members and (2) group leaders can pin important posts to the top of the dashboard. This acts as both a big forum for large groups and a common workspace for small groups.
