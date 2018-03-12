@@ -22,6 +22,6 @@ This storyboard shows how our platform handles event discovery and event notific
 
 This storyboard shows how our platform supports art showcasing and art discovery through two different scenarios.
 
-[![Figure 1: Mobile upload of artwork](/img/CS376_SB_Mobile.jpg)]
+![Figure 1: Mobile upload of artwork](/img/CS376_SB_Mobile.jpg)
 
-[![Figure 2: Web-based browsing](/img/CS376_SB_Web.jpg)]
+![Figure 2: Web-based browsing](/img/CS376_SB_Web.jpg)
