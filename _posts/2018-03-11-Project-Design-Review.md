@@ -16,4 +16,4 @@ Using both web and mobile app formats provides users with the advantages of both
 ***Event Discovery / Event Notification***
 
 This storyboard shows how our platform handles event discovery and event notification through two different scenarios. 
-[![Figure 1](/img/task5_storyboard.jpg)](http://i66.tinypic.com/317b7dy.jpg)
+[![Figure 1](/img/task5_storyboard.jpg)](oi66.tinypic.com/317b7dy.jpg)
