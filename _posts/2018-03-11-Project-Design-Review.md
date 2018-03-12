@@ -14,5 +14,6 @@ Our contextual inquiry findings stress the importance of the two tasks chosen. A
 Using both web and mobile app formats provides users with the advantages of both media. For artwork showcase, a website - often accessed on a computer - enables users to more comfortably set up their own posts and browse posts from other people: the real estate of a computer screen provides more information during post navigation, and keyboard & mouse serve a more flexible range of inputs, compared to a touch screen. Meanwhile, phones are more portable, and people carry them everywhere. Thus, the mobile app supports more on-the-go operations, such as checking in to an event and interacting with other event-goers as well as artists/performers. Since our aim is to foster the local art community, optimizing user-to-user interaction is key. We achieve this by tailoring our app according to the advantages of the medium.
 
 ***Event Discovery / Event Notification***
+
 This storyboard shows how our platform handles event discovery and event notification through two different scenarios. 
 [![Figure 1](/img/task5_storyboard.jpg)](http://i66.tinypic.com/317b7dy.jpg)
