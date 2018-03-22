@@ -5,7 +5,7 @@ subtitle: a2a
 bigimg: /img/art_graphic.jpg
 ---
 
-![a2a](/img/logo_v1-1.png)
+![a2a](/img/a2a_Logo.png)
 
 ## MOTIVATIONS
 

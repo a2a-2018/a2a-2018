@@ -11,7 +11,7 @@ Designer, user researcher, rotating project manager
 
 Quan Do is a Computer Science major from Ho Chi Minh City, Vietnam. He's been dabbling in traditional art for more than 6 years and has a deep interest in illustration. On campus, he sings a cappella with the Aristocows and co-chairs the Vietnamese Student Association.
 
-[Visit Quan's hobbyist art portfolio](https://dhmq.carbonmade.com/)
+[Visit Quan's hobbyist art portfolio](https://quanhmdo.carbonmade.com/)
 
 [Visit Quan's website](https://dhmquan.github.io/)
 
