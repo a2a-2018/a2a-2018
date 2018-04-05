@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a2a: artist2artist || art2all
+title: a2a - artist2artist || art2all
 date: 2018-04-05
 tags: [assignment, report, design, final]
 ---
