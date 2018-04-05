@@ -8,7 +8,9 @@ tags: [assignment, report, design, final]
 **Team Members**
 
 Quan Do - designer, inquirer, project manager
+
 Grace Mazzarella - designer, inquirer, project manager
+
 Dawn Wu - designer, founder, inquirer, project manager
 
 **Problem and Solution Overview**
@@ -93,7 +95,7 @@ a2a supports freedom of speech and expression of opinions, and recognizes that s
 
 ![Figure 4](/img/Website-4.jpg)
 
-The first design is a dashboard website for individuals and groups to post artworks and events. The platform also supports forum discussions, direct messages, and group organizing. On the landing page (Fig 1), People can click/tap on a post to expand and get more info, leave comments, or follow the events/artists/groups. A sidebar to the right of every page allows users to navigate to other functionalities. The inbox page (Fig 2) is organized into a sideway tabbed view with a contact list on the left. Users can send and receive direct messages here. On the forum page (Fig 3), users can discuss artistic ideas, brainstorm new projects, or advertise collaborative opportunities. Users can bookmark, upvote, downvote, and respond to any threads of interest. A group dashboard (Fig 4) is similar to the main dashboard on the landing page, except that (1) it is only viewable by group members and (2) group leaders can pin important posts to the top of the dashboard. This acts as both a big forum for large groups and a common workspace for small groups.
+The first design is a dashboard website for individuals and groups to post artworks and events. The platform also supports forum discussions, direct messages, and group organizing. On the landing page, People can click/tap on a post to expand and get more info, leave comments, or follow the events/artists/groups. A sidebar to the right of every page allows users to navigate to other functionalities. The inbox page is organized into a sideway tabbed view with a contact list on the left. Users can send and receive direct messages here. On the forum page, users can discuss artistic ideas, brainstorm new projects, or advertise collaborative opportunities. Users can bookmark, upvote, downvote, and respond to any threads of interest. A group dashboard is similar to the main dashboard on the landing page, except that (1) it is only viewable by group members and (2) group leaders can pin important posts to the top of the dashboard. This acts as both a big forum for large groups and a common workspace for small groups.
 
 *DESIGN 2*
 ![Figure 5](/img/Grace_Combo_Design.jpg)
@@ -108,7 +110,7 @@ The second design is a potential mobile interface. While ideally supporting all 
 
 ![Figure 8](/img/d3-3.jpg)
 
-This last design incorporates both a web-based app and a mobile app, but with different functionality on each. Additionally, we introduce the concept of points. Points can be given for creating and sharing art, collaborating, going to events, discussing in forums, etc. Finally, points can only buy digital “items” to give others (stickers, animations, fun stuff, etc.). The web interface (Fig 6) uses a tabbed layout, including a Feed of recent local art and coming events as well as a Forum to support community discussion (collaborations, ideas, current events, etc.). On the upper right hand corner, a user can see their notifications (of a coming event that they followed or about points they receive), direct messages, a user profile page, and points. A defining mobile-specific feature is event check-in/sign-in (Fig 7). This is a good way to award points for attending events, but this can be tweaked. The point of being able to sign / check into an event is to access something that is both shared and live. This design features a live chat, open to anyone that has signed into the event. The hamburger bars hide the rest of the functionality of the app, such as Feed and Forum (Fig 8).
+This last design incorporates both a web-based app and a mobile app, but with different functionality on each. Additionally, we introduce the concept of points. Points can be given for creating and sharing art, collaborating, going to events, discussing in forums, etc. Finally, points can only buy digital “items” to give others (stickers, animations, fun stuff, etc.). The web interface uses a tabbed layout, including a Feed of recent local art and coming events as well as a Forum to support community discussion (collaborations, ideas, current events, etc.). On the upper right hand corner, a user can see their notifications (of a coming event that they followed or about points they receive), direct messages, a user profile page, and points. A defining mobile-specific feature is event check-in/sign-in. This is a good way to award points for attending events, but this can be tweaked. The point of being able to sign / check into an event is to access something that is both shared and live. This design features a live chat, open to anyone that has signed into the event. The hamburger bars hide the rest of the functionality of the app, such as Feed and Forum.
 
 *CHOICE OF DESIGN*
 
@@ -127,7 +129,11 @@ Sydney is a Political Science major at Williams College who has never had any in
 
 **Storyboards of the Selected Design**
 
+*Storyboard 1 - event discovery and notification*
+
 ![Storyboard 1 - event discovery and notification](/img/task5_storyboard.jpg)
+
+*Storyboard 2 - art showcase and discovery*
 
 ![Storyboard 2a - art showcase and discovery](/img/CS376_SB_Mobile.jpg)
 
