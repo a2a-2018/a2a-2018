@@ -43,7 +43,7 @@ We consildated all upload options into one button called "Choose File", so that 
 
 **3. Inconsistency in Back Button Placements**
 
-![Figure 5: Inconsistency in Back Button Placements](/img/Edit1.JPG)
+![Figure 5: Inconsistency in Back Button Placements](/img/Edit1.jpg)
 
 Problem: For most of our design, the "Back" button of each screen is placed at the upper left corner of the interface. However, for some sections, the button has been placed at the end of a field to be filled in, requiring users to spend extra time locating the simple, commonly used feature.
 
@@ -53,7 +53,7 @@ Severity Rating: 1
 
 Revision:
 
-![Figure 5: Inconsistency in Back Button Redone](/img/Edit1b.jpg)
+![Figure 5: Inconsistency in Back Button Redone](/img/Edit1b.JPG)
 
 We relocated the "Back" button to the upper left corner, standardizing all parts of the interface.
 
