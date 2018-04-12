@@ -151,3 +151,7 @@ Once the file is selected, the user can fill in the additional information as th
 When the user is satisified, they can press upload to share their work with the community.
 
 ![Figure 7.1](/img/Upload.2.8.jpg)
+
+### Plans Going Forward
+
+We plan to test our design with one non-artist for certain. If we can find a non-student artist who's available over the weekend, we will test our design with them; otherwise we will work with another student. In these additional tests, we want to make sure our revised buttons are intuitive across users, and we want to make sure our users are not distracted and stay on task. Distraction could be a sign that symbols are not clear, or less relevant ones are too prominent. Each member of the team would try each of the roles for experience, and everyone would be present at the test for more thorough note-taking and another set of eyes. Since Grace and Quan have already tried the roles of Facilitator and Computer respectively, ideally they would not reprise their roles. In addition, we will try to provide more specific tasks to our users, since a lack of concrete goal could lead to distraction and excessive exploration. For example, "upload a picture" versus "upload your favorite work, 'Portrait in Green'".
