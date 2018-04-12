@@ -21,7 +21,7 @@ Severity Rating: 2
 
 Revision:
 
-![Figure 2: Notification Tab Redone](/img/Event7b.JPG)
+![Figure 2: Notification Tab Redone|50%](/img/Event7b.JPG)
 ![Figure 2: Notification Tab Redone](/img/Event8b.JPG)
 
 We reworked the notification section into a full page, similar to other tabbed sections. We also renamed the "Recent" sub-section to "Notifications" and "Inbox" to "Messages" to avoid confusion. Only one of the sub-sections is displayed at a time, and users can switch between using a handy tab at the top of the page.
@@ -86,7 +86,7 @@ When it's time, the user receives a notification about the event.
 They open the notification on their phone and a2a opens.
 ![Figure 2.4](/img/Event4.jpg)
 ![Figure 2.5](/img/Event5.jpg)
-![Figure 2.6](/img/Event8b.jpg)
+![Figure 2.6](/img/Event8b.JPG)
 
 They can also touch the notification about the event, which will bring them to the Event post.
-![Figure 2.7](/img/Discover1b.png)
+![Figure 2.7|50%](/img/Discover1b.png)
