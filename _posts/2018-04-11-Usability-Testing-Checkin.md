@@ -45,3 +45,13 @@ Revision:
 ![Figure 5: Inconsistency in Back Button Redone](/img/Edit1b.JPG)
 
 We relocated the "Back" button to the upper left corner, standardizing all parts of the interface.
+
+**FIRST USABILITY TEST**
+
+KY is an undergraduate senior at Williams College majoring in Computer Science. A former participant in our series of contextual inquiries, KY is a potential user - a student artist at a rural, small college who constantly seeks out new arts and artists in the vicinity. They also wish to advertise their projects, in hope of connecting with possible collaborators.
+
+We conducted the test in Jesup Hall, where student artists typically go to for digital pre-processing needs. KY often take advantage of the high-spec, well-calibrated computers here to edit photos, videos, or posters before posting them. In their free time, they also often check for new arts and events on social media.
+
+At the beginning of the test, we provided KY with some background on our project and instructed them to complete two tasks on the interface, thinking out loud throughout the process. We did not answer any questions they raised, and we sometimes asked our own questions to clarify their confusion with various aspects of the app. Quan was the computer, Grace was the observer, and both were the facilitator.
+
+There were two effective strategies that we would continue using: (1) allowing KY to think out loud and (2) occasionally probing them to point at the specific features that stumped them. At the same time, there were several times where Quan interrupted Grace to write down some additional observations, or Grace interrupted Quan to work the interface in a different way. Allowing some flexibility in our testing roles is great, but for subsequent tests, it might be great to minimize such disruptive switching.
