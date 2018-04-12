@@ -68,7 +68,7 @@ Severity Rating: 2
 
 Revision:
 
-![Figure 6](/img/FAQ.JPG)
+![Figure 6](/img/FAQ.jpg)
 
 We added an FAQ option to the side menu and left it under construction while we gather more data on what questions fall into the "frequently asked" category.
 
