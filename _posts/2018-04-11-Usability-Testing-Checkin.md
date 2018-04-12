@@ -21,7 +21,7 @@ Severity Rating: 2
 
 Revision:
 
-![Figure 2: Notification Tab Redone|50%](/img/Event7b.JPG)
+![Figure 2: Notification Tab Redone](/img/Event7b.JPG) <!-- .element height="50%" width="50%" -->
 ![Figure 2: Notification Tab Redone](/img/Event8b.JPG)
 
 We reworked the notification section into a full page, similar to other tabbed sections. We also renamed the "Recent" sub-section to "Notifications" and "Inbox" to "Messages" to avoid confusion. Only one of the sub-sections is displayed at a time, and users can switch between using a handy tab at the top of the page.
