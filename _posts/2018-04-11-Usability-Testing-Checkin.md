@@ -61,7 +61,7 @@ There were two effective strategies that we would continue using: (1) allowing K
 
 ![Confusing icons in Feed Section](/img/Discover1.jpg)
 
-Problem: The interactive portion of each Feed post is cluttered with the "View" count and unrecognizable "Follow" icon. First-time users might be confused by all of these icons and would take some experimentation to get used to.
+Problem: The interactive portion of each Feed post is cluttered with the "View" count (eye icon) and an unrecognizable "Follow" icon (arrow icon). First-time users might be confused by all of these icons and would take some experimentation to get used to.
 
 Severity Rating: 2
 
@@ -89,4 +89,5 @@ They open the notification on their phone and a2a opens.
 ![Figure 2.6](/img/Event8b.JPG)
 
 They can also touch the notification about the event, which will bring them to the Event post.
-![Figure 2.7|50%](/img/Discover1b.png)
+![Figure 2.7](/img/Event8.jpg)
+![Figure 2.8](/img/Discover1b.png)
