@@ -27,7 +27,6 @@ We reworked the notification section into a full page, similar to other tabbed s
 **2. Inconsistency in Upload Workflow**
 
 ![Figure 3.1](/img/Upload1.jpg)
-![Figure 3.2](/img/Upload13.jpg)
 
 Problem: There were too many options for uploading files, and the naming convention made no sense to users.
 
@@ -37,7 +36,7 @@ Severity Rating: 3
 
 Revision:
 
-![Figure 3.3](/img/Upload.2.1.jpg)
+![Figure 3.2](/img/Upload.2.1.jpg)
 
 We consildated all upload options into one button called "Choose File", so that the user can choose files of any type from their phone or from compatible apps. We also removed the option to take a photo or video directly via camera. This is because we realized most artists who upload visual work would likely digitally edit their images beforehand, and so wouldn't need the camera.
 
