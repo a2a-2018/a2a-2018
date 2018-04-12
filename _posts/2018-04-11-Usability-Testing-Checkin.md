@@ -21,6 +21,8 @@ Severity Rating: 2
 
 Revision:
 
-![Figure 1: Notification Tab Redone](/img/Event7b.jpg)
+![Figure 2: Notification Tab Redone](/img/Event7b.JPG)
 
-We reworked the notification section into a full page, similar to other tabbed sections. We also renamed the "Recent" sub-section to "Notifications" and "Inbox" to "Messages" to avoid confusion. Only one of the sub-sections is displayed at a time, and users can switch between using a handy tab at the top of the page. 
+We reworked the notification section into a full page, similar to other tabbed sections. We also renamed the "Recent" sub-section to "Notifications" and "Inbox" to "Messages" to avoid confusion. Only one of the sub-sections is displayed at a time, and users can switch between using a handy tab at the top of the page.
+
+![Test](/img/Interests1.jpg)
