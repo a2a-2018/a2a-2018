@@ -2,7 +2,7 @@
 layout: post
 title: Usability Review
 date: 2018-04-16
-[tags: assignment, review, usability, test]
+tags: [assignment, review, usability, test]
 ---
 
 ### Usability Tests
