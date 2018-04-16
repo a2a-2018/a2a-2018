@@ -73,8 +73,6 @@ The “Upload” workflow in our initial design was unclear in many places, such
 
 **Important Revision 2**
 
-Modifying our icons from cute to understandable
-
 In our initial design, we tried to use fun icons that weren’t your stereotypical house-as-home-button sort of thing. For example, for our “home/main feed” button we used an artist’s palette; for our “follow” button we used an eye. However, our users, and even we ourselves, found attaching meaning to these buttons confusing. Users (and even the team member who wrote up the paper prototype section) didn’t know that the eye icon in under each feed item was actually the “follow” button, leading them to attribute the “follow” function with the now-removed “share” button, and other things like that. This helped us realize that we needed to take a step back from trying to be ‘cute and fun’ and focus on being clear about each button’s function. So now we’ve reverted back to what users expect and/or can easily interpret - our “home” button is a house and our “follow” button is clearly labeled “follow”.
 
 **Important Revision 3**
