@@ -39,8 +39,7 @@ User discovered an inability to edit user profile because no button / workflow f
 
 *Severity*: Low
 
-*Explanation*
-This was an oversight on our part, and so we added the ability to edit user profile workflow under the settings tab. 
+*Explanation*: This was an oversight on our part, and so we added the ability to edit user profile workflow under the settings tab. 
 
 **Incident 2**
 
@@ -48,8 +47,7 @@ User was not able to see portfolio before they had added anything.
 
 *Severity*: Low
 
-*Explanation*
-We didn’t think to create this page when we originally made our paper prototypes. This was easily fixed by quickly creating the empty portfolio page for future user tests.
+*Explanation*: We didn’t think to create this page when we originally made our paper prototypes. This was easily fixed by quickly creating the empty portfolio page for future user tests.
 
 **Incident 3**
 
@@ -57,8 +55,7 @@ User was wary of individual ability to post events, as they do not want to be sp
 
 *Severity*: Medium
 
-*Explanation*
-Although the fear of having fake or joke events created by individuals is legitimate, we still want to be able to provide the ability to create events for individuals for the cases of individual shows, solo showcases, recitals, etc. However, it is a good concept to have the ability to create groups in a2a, so we have added that workflow into a2a.
+*Explanation*: Although the fear of having fake or joke events created by individuals is legitimate, we still want to be able to provide the ability to create events for individuals for the cases of individual shows, solo showcases, recitals, etc. However, it is a good concept to have the ability to create groups in a2a, so we have added that workflow into a2a.
 
 **Incident 4**
 
@@ -66,5 +63,4 @@ User was confused during the profile overview portion of the onboarding process 
 
 *Severity*: Medium
 
-*Explanation*
-The review screen which gives an overview of the user’s profile as they’ve formed it has the vague profile “Basic Profile”, and the “finish” button doesn’t stand out as much as it should, which is probably what led to this confusion. To help resolve these issues, we renamed the “Basic Profile” screen to something like “Review Information” or “Review Profile”. We also changed the color of the “finish” button from black to peach to make it stand out more.
+*Explanation*: The review screen which gives an overview of the user’s profile as they’ve formed it has the vague profile “Basic Profile”, and the “finish” button doesn’t stand out as much as it should, which is probably what led to this confusion. To help resolve these issues, we renamed the “Basic Profile” screen to something like “Review Information” or “Review Profile”. We also changed the color of the “finish” button from black to peach to make it stand out more.
