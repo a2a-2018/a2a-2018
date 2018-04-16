@@ -41,6 +41,10 @@ User discovered an inability to edit user profile because no button / workflow f
 
 *Explanation*: This was an oversight on our part, and so we added the ability to edit user profile workflow under the settings tab. 
 
+*Visual*
+
+![Fig. 1](/img/Fix1.jpg)
+
 **Incident 2**
 
 User was not able to see portfolio before they had added anything.
@@ -48,6 +52,10 @@ User was not able to see portfolio before they had added anything.
 *Severity*: Low
 
 *Explanation*: We didn’t think to create this page when we originally made our paper prototypes. This was easily fixed by quickly creating the empty portfolio page for future user tests.
+
+*Visual*
+
+![Fig. 2](/img/Fix2.jpg)
 
 **Incident 3**
 
@@ -57,6 +65,10 @@ User was wary of individual ability to post events, as they do not want to be sp
 
 *Explanation*: Although the fear of having fake or joke events created by individuals is legitimate, we still want to be able to provide the ability to create events for individuals for the cases of individual shows, solo showcases, recitals, etc. However, it is a good concept to have the ability to create groups in a2a, so we have added that workflow into a2a.
 
+*Visual*
+
+![Fig. 3](/img/Fix3.jpg)
+
 **Incident 4**
 
 User was confused during the profile overview portion of the onboarding process - they thought they had to re-enter all the information.
@@ -64,6 +76,18 @@ User was confused during the profile overview portion of the onboarding process 
 *Severity*: Medium
 
 *Explanation*: The review screen which gives an overview of the user’s profile as they’ve formed it has the vague profile “Basic Profile”, and the “finish” button doesn’t stand out as much as it should, which is probably what led to this confusion. To help resolve these issues, we renamed the “Basic Profile” screen to something like “Review Information” or “Review Profile”. We also changed the color of the “finish” button from black to peach to make it stand out more.
+
+*Visual*
+
+![Fig. 4](/img/Fix4.jpg)
+
+### Paper Prototype
+
+Below is an overview of our finalized paper prototype:
+
+![Fig. 5](/img/Full_Proto3.jgp)
+
+At this point, our two main tasks, event discovery and notification and art showcasing, are as they were in the last revision. Please refer to the detailed walkthroughs found in our [Usability Testing Check-In][https://a2a-2018.github.io/2018-04-11-Usability-Testing-Checkin/].
 
 ### Most Important Revisions
 
