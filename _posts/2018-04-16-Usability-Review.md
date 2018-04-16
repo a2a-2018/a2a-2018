@@ -64,3 +64,20 @@ User was confused during the profile overview portion of the onboarding process 
 *Severity*: Medium
 
 *Explanation*: The review screen which gives an overview of the user’s profile as they’ve formed it has the vague profile “Basic Profile”, and the “finish” button doesn’t stand out as much as it should, which is probably what led to this confusion. To help resolve these issues, we renamed the “Basic Profile” screen to something like “Review Information” or “Review Profile”. We also changed the color of the “finish” button from black to peach to make it stand out more.
+
+### Most Important Revisions
+
+**Important Revision 1**
+
+The “Upload” workflow in our initial design was unclear in many places, such as how to upload a file (there were three options and some very useless labels associated with them), and had some unnecessary functions, such as using the device’s camera to take images on the spot. To fix the upload issue, we condensed the different places from which to upload a file, such as the device’s photo album or an external drive such as Google Drive or Dropbox, under one button. We also removed the camera functionality, since most visual and auditory artists will usually pre-record or photograph and edit their work before considering it ready for upload. Finally, we condensed everything onto one page to make uploading an art file cleaner and more consistent for the user.
+
+**Important Revision 2**
+
+Modifying our icons from cute to understandable
+
+In our initial design, we tried to use fun icons that weren’t your stereotypical house-as-home-button sort of thing. For example, for our “home/main feed” button we used an artist’s palette; for our “follow” button we used an eye. However, our users, and even we ourselves, found attaching meaning to these buttons confusing. Users (and even the team member who wrote up the paper prototype section) didn’t know that the eye icon in under each feed item was actually the “follow” button, leading them to attribute the “follow” function with the now-removed “share” button, and other things like that. This helped us realize that we needed to take a step back from trying to be ‘cute and fun’ and focus on being clear about each button’s function. So now we’ve reverted back to what users expect and/or can easily interpret - our “home” button is a house and our “follow” button is clearly labeled “follow”.
+
+**Important Revision 3**
+
+We had a few silly consistency issues in our app, some of which stemmed from not all checking back in while we were making our paper prototype, and some of which were carefully considered and created all the same. The accidental consistency issues had to do with button placement throughout the app, particularly the “back” button. Our gloriously ridiculous notifications speech-bubble-style box that popped up when the user hit the notification button instead of the expected separate page was our consciously inserted element that led to inconsistency.
+
