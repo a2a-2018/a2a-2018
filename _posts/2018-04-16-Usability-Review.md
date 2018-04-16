@@ -85,7 +85,7 @@ User was confused during the profile overview portion of the onboarding process 
 
 Below is an overview of our finalized paper prototype:
 
-![Fig. 5](/img/Full_Proto3.jgp)
+![Fig. 5](/img/Full_Proto3.jpg)
 
 At this point, our two main tasks, event discovery and notification and art showcasing, are as they were in the last revision. Please refer to the detailed walkthroughs found in our [Usability Testing Check-In](https://a2a-2018.github.io/2018-04-11-Usability-Testing-Checkin/).
 
