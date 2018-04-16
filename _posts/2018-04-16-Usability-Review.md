@@ -67,7 +67,7 @@ User was wary of individual ability to post events, as they do not want to be sp
 
 *Visual*
 
-![Fig. 3](/img/Fix3.jpg)
+![Fig. 3](/img/Fix3.png)
 
 **Incident 4**
 
