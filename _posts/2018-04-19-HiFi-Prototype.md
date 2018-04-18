@@ -30,7 +30,22 @@ If they touch the thumbnail for the event, they can view the event page for more
 ![Fig. 2.4: Detail of a post](/img/Feed-Post.png)
 
 **Task 2: Art Showcasing**
-more words
+
+When a user would like to upload an image, they touch the "plus" icon, which will bring them to the following page:
+
+![Fig. 3.1: Initial upload page](/img/Upload1.png)
+
+Pressing the peach-colored "choose file" button calls a menu which allows them to decide from where they'd like to take the art file to upload.
+
+![Fig. 3.2: Menu for selecting file location](/img/Upload2.png)
+
+The app will communicate with the selected source, allowing the user to view their files and select one.
+
+![Fig. 3.3: Overview of files in Drive](/img/Upload3.png) ![Fig. 3.4: Selected file in Drive](/img/Upload4.png)
+
+The user may also input additional information, such as a title for their work, a description, and some tags to help users find the piece via search bar. Upon satisfaction, the user presses the upload button and their work is shared with the community.
+
+![Fig. 3.5: Uploaded file, empty input fields](/img/Upload5.png) ![Fig. 3.6: Uploaded file, filled input fields](/img/Upload6.png)
 
 ### Implementation Decisions
 
