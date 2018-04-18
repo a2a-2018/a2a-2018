@@ -15,7 +15,7 @@ The following is an overview of our high fidelity prototype:
 
 A user browses their feed, which is populated with artwork, discussions, and events related to interests that they list upon first login (and which they can modify under settings), as well as to groups that they follow.
 
-![Fig. 2.1: A populated feed](/img/Feed-Main.png)
+![Fig. 2.1: A populated feed|20%](/img/Feed-Main.png)
 
 When a user sees an event for which they'd like to be notified, they press the star icon.
 
