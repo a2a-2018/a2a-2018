@@ -15,7 +15,7 @@ The following is an overview of our high fidelity prototype:
 
 A user browses their feed, which is populated with artwork, discussions, and events related to interests that they list upon first login (and which they can modify under settings), as well as to groups that they follow.
 
-![Fig. 2.1: A populated feed|small](/img/Feed-Main.png)
+![Fig. 2.1: A populated feed](/img/Feed-Main.png)
 
 When a user sees an event for which they'd like to be notified, they press the star icon.
 
@@ -47,6 +47,14 @@ The user may also input additional information, such as a title for their work, 
 
 ![Fig. 3.5: Uploaded file, empty input fields](/img/Upload5.png) ![Fig. 3.6: Uploaded file, filled input fields](/img/Upload6.png)
 
-### Implementation Decisions
+### Implementation Decisions / Design Changes
 
-There will be more words here
+## Feed Post Buttons ##
+Some usability test participants commented that they could not recognize the Follow button on a post, confusing it with a Seen icon indicating view counts. We reworked our Follow button to a Star button for clarity, and also added a real Seen icon to let users know how well posts reach other users. We also recolor all interact-able buttons to peach (the app's accent color), and other icons grey.
+
+![Fig. 4.1: A populated feed](/img/Feed-Main.png)
+
+## Upload Text Fields ##
+We change the appearance of all text fields in the upload page from text boxes to borderless fields, indicated by simple lines under the texts. This helps preserve consistency with other parts of the app, such as the onboarding text fields.
+
+![Fig. 4.2: Uploaded file, empty input fields](/img/Upload5.png)
