@@ -49,12 +49,18 @@ The user may also input additional information, such as a title for their work, 
 
 ### Implementation Decisions / Design Changes
 
-### Feed Post Buttons ###
-Some usability test participants commented that they could not recognize the Follow button on a post, confusing it with a Seen icon indicating view counts. We reworked our Follow button to a Star button for clarity, and also added a real Seen icon to let users know how well posts reach other users. We also recolor all interact-able buttons to peach (the app's accent color), and other icons grey.
+**Feed Post Buttons**
+
+Some usability test participants commented that they could not recognize the Follow button on a post, confusing it with a Seen icon indicating view counts. We reworked our Follow button to a Star button for clarity, and also added a real Seen icon to let users know how well posts reach other users. We also recolored all interact-able buttons to peach (the app's accent color), and other icons grey.
 
 ![Fig. 4.1: A populated feed](/img/Feed-Main.png)
 
-### Upload Text Fields ###
-We change the appearance of all text fields in the upload page from text boxes to borderless fields, indicated by simple lines under the texts. This helps preserve consistency with other parts of the app, such as the onboarding text fields.
+**Upload Text Fields**
+
+We changed the appearance of all text fields in the upload page from text boxes to borderless fields, indicated by simple lines under the texts. This helps preserve consistency with other parts of the app, such as the onboarding text fields.
 
 ![Fig. 4.2: Uploaded file, empty input fields](/img/Upload5.png)
+
+**Things We Decided Not to Implement Yet**
+
+There are a few pieces of our app which, while important to the overall product, are not relevant to our two main tasks. The entire functionality relating to groups, while important for establishing how the events which users can follow appear, are not important to the discovery and notification itself, nor is it relevant to art showcasing through the app. Profile editing is similarly important, but our main focus at this point is the primary task of showcasing that art, not editing what's already been uploaded. The workflow for partaking in discussions is also not included. For the sake of creating high-fidelity prototype in four days without going overboard, we prioritized things that we thought a user would more directly encounter while performing our two main tasks.
