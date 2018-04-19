@@ -7,7 +7,7 @@ tags: [assignment, hifi, prototype, high-fidelity]
 
 ### The Prototype
 
-The following is an overview of our high fidelity prototype:
+Our InVision prototype can be found [here](http://invis.io/NGGTUYQV3FW). The following is an overview of our high fidelity prototype:
 
 ![Fig. 1: High Fidelity Prototype Overview](/img/Overview.png)
 
