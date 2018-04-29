@@ -5,7 +5,7 @@ date: 2018-04-05
 tags: [assignment, project, paper, prototype]
 ---
 
-Our paper prototype supports our two main tasks, art showcase/discovery and event discovery/notification, along with a few minor tasks like logging in and changing settings.
+Our paper prototype gives an overview of the main design of our product (mobile, feed-based design) and demonstrates the workflows for our two main tasks: art showcasing and event discovery/notification. This paper prototype also includes workflows for a few minor tasks like onboarding, logging in and changing settings.
 
 ![Figure 1: Full Paper Prototype](/img/Full_Proto.jpg)
 
@@ -34,9 +34,9 @@ They can also touch the notification about the event, which will bring them to t
 ![Figure 2.8](/img/Event8.jpg)
 ![Figure 2.9](/img/Event9.jpg)
 
-**Task 2: Art Showcasing and Discovery**
+**Task 2: Art Showcasing**
 
-To begin uploading a file, the user presses the middle button on the tool bar, and are presented with three methods to upload a file. One of these is to use a file directly from the user's device.
+To begin uploading a file, the user presses the middle button on the tool bar, and is presented with three methods to upload a file. One of these is to use a file directly from the user's device.
 ![Figure 3.1](/img/Upload1.jpg)
 
 The second option is to use a file stored in some cloud via another application. Touching that button will present the user with a menu of potential applications. Touching the button again makes the menu disappear.
@@ -71,11 +71,3 @@ When the user is finished typing, they can review their handiwork before pressin
 
 After this, the work appears on other users' feed!
 ![Figure 3.22](/img/Upload22.jpg)
-
-If some user is interested in the new work, they can touch it to reveal what information the artist shared.
-![Figure 4.2](/img/Discover2.jpg)
-![Figure 4.3](/img/Discover3.jpg)
-
-If the artist has enabled comments on their work, the user can touch the "comments" icon to view what other users have said about the piece, and can add their own if they'd like.
-![Figure 4.4](/img/Discover4.jpg)
-![Figure 4.5](/img/Discover5.jpg)
