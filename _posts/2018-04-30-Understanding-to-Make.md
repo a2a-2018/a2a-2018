@@ -44,38 +44,18 @@ To be added by Quan
 
 **Appendix**
 
-scroll: https://www.flaticon.com/free-icon/papyrus_822081#term=scroll&page=1&position=7
+*Original Task Instructions*
 
-camera: https://www.iconfinder.com/icons/211634/camera_icon#size=256
+Onboarding: “You’ve heard of this new app called a2a which gives the Williams community a centralized platform for artwork and art-related event sharing. You’ve just downloaded the app. Please create a new account.”
 
-home: https://www.iconfinder.com/icons/216242/home_icon#size=256	
+Upload an artwork: “Now that you have an account, you’ve decided that your portfolio looks a little empty. Please upload an artwork.”
 
-heart: https://www.flaticon.com/free-icon/like_148836#term=heart&page=1&position=1	
+Set an event notification: “You’re looking for something to do over the weekend. Please choose an event and set a notification for it.”
 
-comment: https://www.iconfinder.com/icons/216474/comment_icon#size=256 
+*Revised Task Instructions*
 
-more: https://www.iconfinder.com/icons/1303881/dots_more_options_waiting_icon#size=256
+Onboarding: [no change]
 
-eye: https://www.iconfinder.com/icons/2303106/eye_opened_public_visible_watch_icon#size=256
+Upload an artwork: “Now that you have an account, you’ve decided that your portfolio looks a little empty. Luckily, you’ve just done an in-class portrait assignment in Drawing 100 that you’re proud of, and so you take a photo of it, crop it, and upload it to Drive. Now it’s time to add your portrait in green to your a2a portfolio.”
 
-Star: https://www.iconfinder.com/icons/384882/decoration_holiday_star_icon#size=256
-
-down carat: https://www.flaticon.com/free-icon/arrow-down-sign-to-navigate_32195#term=down%20arrow&page=1&position=9
-
-profile pic 1: https://asphaltgold.de/media/catalog/product/cache/1/image/930x669/0f396e8a55728e79b48334e699243c07/s/t/st_ssy_stock_cap_light_blue_1.jpg
-
-profile pic 2: https://www.istockphoto.com/photo/asian-women-profile-gm139662784-1051955?esource=SEO_GIS_CDN_Redirect
-
-study in pink: https://images.fineartamerica.com/images-medium-large-5/red-starry-night-sumit-jain.jpg
-
-blooming: https://i.ytimg.com/vi/hs86eBCT4dI/maxresdefault.jpg
-
-CODA profile: https://www.williams.edu/feature-stories/feature-stories-archive/coda/
-
-CODA event: https://dance.williams.edu/
-
-Fanfic club profile: https://en.wikipedia.org/wiki/Writing#/media/File:Fountain_pen_writing_(literacy).jpg
-
-Fanfic event: https://unsplash.com/photos/RdmLSJR-tq8
-
-Dog!!!! https://unsplash.com/photos/w_O_tPgxvok
+Set an event notification: “You’re looking for something to do over the weekend. One of your friends reminds you that their show, ‘Fancy Dance’, is happening. However, you know you’ll never remember when and where it is. You remember that a2a has an event notification feature, so you decide to set a reminder for the ‘Fancy Dance’.”
