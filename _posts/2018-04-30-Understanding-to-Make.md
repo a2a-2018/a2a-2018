@@ -46,16 +46,20 @@ To be added by Quan
 
 *Original Task Instructions*
 
-Onboarding: “You’ve heard of this new app called a2a which gives the Williams community a centralized platform for artwork and art-related event sharing. You’ve just downloaded the app. Please create a new account.”
+Onboarding: “You’ve heard of this new app called a2a which gives the Williams community a centralized platform for artwork and art-related event sharing. You’ve just downloaded the app. Please create a new account. Don't forget to tell me what you're thinking.”
 
-Upload an artwork: “Now that you have an account, you’ve decided that your portfolio looks a little empty. Please upload an artwork.”
+Upload an artwork: “Now that you have an account, you’ve decided that your portfolio looks a little empty. Please upload an artwork. Don't forget to tell me what you're thinking.”
 
-Set an event notification: “You’re looking for something to do over the weekend. Please choose an event and set a notification for it.”
+Set an event notification: “You’re looking for something to do over the weekend. Please choose an event and set a notification for it. Don't forget to tell me what you're thinking.”
 
 *Revised Task Instructions*
 
 Onboarding: [no change]
 
-Upload an artwork: “Now that you have an account, you’ve decided that your portfolio looks a little empty. Luckily, you’ve just done an in-class portrait assignment in Drawing 100 that you’re proud of, and so you take a photo of it, crop it, and upload it to Drive. Now it’s time to add your portrait in green to your a2a portfolio.”
+Upload an artwork: “Now that you have an account, you’ve decided that your portfolio looks a little empty. Luckily, you’ve just done an in-class portrait assignment in Drawing 100 that you’re proud of, and so you take a photo of it, crop it, and upload it to Drive. Now it’s time to add your portrait in green to your a2a portfolio. Don't forget to tell me what you're thinking.”
 
-Set an event notification: “You’re looking for something to do over the weekend. One of your friends reminds you that their show, ‘Fancy Dance’, is happening. However, you know you’ll never remember when and where it is. You remember that a2a has an event notification feature, so you decide to set a reminder for the ‘Fancy Dance’.”
+Set an event notification: “You’re looking for something to do over the weekend. One of your friends reminds you that their show, ‘Fancy Dance’, is happening. However, you know you’ll never remember when and where it is. You remember that a2a has an event notification feature, so you decide to set a reminder for the ‘Fancy Dance’. Don't forget to tell me what you're thinking.”
+
+*Critical Incidents*
+
+[Link to "Usability Review" post, see "Results" and "Most Important Revisions" sections](https://a2a-2018.github.io/2018-04-16-Usability-Review/)
