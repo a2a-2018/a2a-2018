@@ -67,15 +67,25 @@ There are a few pieces of our app which, while important to the overall product,
 
 ### Image/Icon Reference
 We utilized a number of stock images and icons for our prototype.
+
 **Icons**
+
 Scroll: [Flaticon](https://www.flaticon.com/free-icon/papyrus_822081#term=scroll&page=1&position=7)
+
 Camera: [Iconfinder](https://www.iconfinder.com/icons/211634/camera_icon#size=256)
+
 Home: [Iconfinder](https://www.iconfinder.com/icons/216242/home_icon#size=256)
+
 Heart: [Flaticon](https://www.flaticon.com/free-icon/like_148836#term=heart&page=1&position=1)
+
 Comment: [Flaticon](https://www.iconfinder.com/icons/216474/comment_icon#size=256)
+
 More: [Iconfinder](https://www.iconfinder.com/icons/1303881/dots_more_options_waiting_icon#size=256)
+
 Eye: [Iconfinder](https://www.iconfinder.com/icons/2303106/eye_opened_public_visible_watch_icon#size=256)
+
 Star: [Iconfinder](https://www.iconfinder.com/icons/384882/decoration_holiday_star_icon#size=256)
+
 Down carat: [Iconfinder](https://www.flaticon.com/free-icon/arrow-down-sign-to-navigate_32195#term=down%20arrow&page=1&position=9)
 
 **Images**
