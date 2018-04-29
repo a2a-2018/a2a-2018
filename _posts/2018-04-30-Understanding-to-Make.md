@@ -24,11 +24,7 @@ Art often has difficulty making its own space in the Williams community.  Artist
 
 **Testing Process**
 
-The main goal for this round of user testing was to test the workflows that  we designed to complete our two tasks: art showcasing and event discovery. Additionally, because we designed an onboarding process as part of our paper prototype, we wanted to test that workflow as well. We designed our user testing method as follows. We conducted each user interview with one willing user and two team members. One team member was in charge of introducing the user to the process, assigning tasks to the user, and writing notes about the user’s actions. The other team member acted as the ‘human’ computer. We split the user test into three parts; for each part the user was asked to complete a different task. The tasks were Setting up a new account as a new user, uploading work to personal portfolio, and discovering an event and following it. After introducing the user to the product, we asked them to complete these three tasks while thinking aloud as much as possible. If the user asked for help, the question was noted and the interviewer would give an appropriate amount of help. 
-
-For participants, our team chose to user test three different students on campus. We decided to interview a student that we had previously performed a contextual inquiry with because he already knew the context of our project, so could potentially perform all the tasks but more importantly could give broader feedback on the designs in how they help achieve the broader goal of our project. This student was an undergraduate student at Williams studying Computer Science and represented our typical user: a student at a rural, small college who does art and constantly seeks out new arts and artists in the vicinity.
-
-We conducted the test in Jesup, one of the prime study spots on campus (students work on works and look thru phone to explore)...
+[Link to "Usability Review" post; see section “Testing Process”](https://a2a-2018.github.io/2018-04-16-Usability-Review/)
 
 **Testing Results**
 
