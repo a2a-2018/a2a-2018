@@ -40,7 +40,7 @@ As with LL, both tasks were easily accomplished with the new back buttons and co
 
 ### Results
 
-**Incident 1**
+**Incident 1: Edit Profile**
 
 User discovered an inability to edit user profile because no button / workflow for it existed. 
 
@@ -52,7 +52,7 @@ User discovered an inability to edit user profile because no button / workflow f
 
 ![Fig. 1](/img/Fix1.jpg)
 
-**Incident 2**
+**Incident 2: Edit Portfolio**
 
 User was not able to see portfolio before they had added anything.
 
@@ -64,7 +64,7 @@ User was not able to see portfolio before they had added anything.
 
 ![Fig. 2](/img/Fix2.jpg)
 
-**Incident 3**
+**Incident 3: Suspicion of groups and events**
 
 User was wary of individual ability to post events, as they do not want to be spammed with “fake” or “joke” events. User wants to restrict ability to post events to just groups, which brings up the concept of having group profiles.
 
@@ -76,7 +76,7 @@ User was wary of individual ability to post events, as they do not want to be sp
 
 ![Fig. 3](/img/Fix3.png)
 
-**Incident 4**
+**Incident 4: Confusion in Onboarding**
 
 User was confused during the profile overview portion of the onboarding process - they thought they had to re-enter all the information.
 
@@ -98,15 +98,15 @@ At this point, our two main tasks, event discovery and notification and art show
 
 ### Most Important Revisions
 
-**Important Revision 1**
+**Important Revision 1: Fixed Upload**
 
 The “Upload” workflow in our initial design was unclear in many places, such as how to upload a file (there were three options and some very useless labels associated with them), and had some unnecessary functions, such as using the device’s camera to take images on the spot. To fix the upload issue, we condensed the different places from which to upload a file, such as the device’s photo album or an external drive such as Google Drive or Dropbox, under one button. We also removed the camera functionality, since most visual and auditory artists will usually pre-record or photograph and edit their work before considering it ready for upload. Finally, we condensed everything onto one page to make uploading an art file cleaner and more consistent for the user.
 
-**Important Revision 2**
+**Important Revision 2: Fixed Buttons**
 
 In our initial design, we tried to use fun icons that weren’t your stereotypical house-as-home-button sort of thing. For example, for our “home/main feed” button we used an artist’s palette; for our “follow” button we used an eye. However, our users, and even we ourselves, found attaching meaning to these buttons confusing. Users (and even the team member who wrote up the paper prototype section) didn’t know that the eye icon in under each feed item was actually the “follow” button, leading them to attribute the “follow” function with the now-removed “share” button, and other things like that. This helped us realize that we needed to take a step back from trying to be ‘cute and fun’ and focus on being clear about each button’s function. So now we’ve reverted back to what users expect and/or can easily interpret - our “home” button is a house and our “follow” button is clearly labeled “follow”.
 
-**Important Revision 3**
+**Important Revision 3: Dealt with Inconsistencies**
 
 We had a few silly consistency issues in our app, some of which stemmed from not all checking back in while we were making our paper prototype, and some of which were carefully considered and created all the same. The accidental consistency issues had to do with button placement throughout the app, particularly the “back” button. Our gloriously ridiculous notifications speech-bubble-style box that popped up when the user hit the notification button instead of the expected separate page was our consciously inserted element that led to inconsistency.
 
