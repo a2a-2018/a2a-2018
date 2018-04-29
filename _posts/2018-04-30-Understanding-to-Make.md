@@ -45,3 +45,24 @@ We conducted the test in Jesup, one of the prime study spots on campus (students
 **Discussion**
 
 To be added by Quan
+
+**Appendix**
+
+scroll: https://www.flaticon.com/free-icon/papyrus_822081#term=scroll&page=1&position=7
+camera: https://www.iconfinder.com/icons/211634/camera_icon#size=256
+home: https://www.iconfinder.com/icons/216242/home_icon#size=256	
+heart: https://www.flaticon.com/free-icon/like_148836#term=heart&page=1&position=1	
+comment: https://www.iconfinder.com/icons/216474/comment_icon#size=256 
+more: https://www.iconfinder.com/icons/1303881/dots_more_options_waiting_icon#size=256
+eye: https://www.iconfinder.com/icons/2303106/eye_opened_public_visible_watch_icon#size=256
+Star: https://www.iconfinder.com/icons/384882/decoration_holiday_star_icon#size=256
+down carat: https://www.flaticon.com/free-icon/arrow-down-sign-to-navigate_32195#term=down%20arrow&page=1&position=9
+profile pic 1: https://asphaltgold.de/media/catalog/product/cache/1/image/930x669/0f396e8a55728e79b48334e699243c07/s/t/st_ssy_stock_cap_light_blue_1.jpg
+profile pic 2: https://www.istockphoto.com/photo/asian-women-profile-gm139662784-1051955?esource=SEO_GIS_CDN_Redirect
+study in pink: https://images.fineartamerica.com/images-medium-large-5/red-starry-night-sumit-jain.jpg
+blooming: https://i.ytimg.com/vi/hs86eBCT4dI/maxresdefault.jpg
+CODA profile: https://www.williams.edu/feature-stories/feature-stories-archive/coda/
+CODA event: https://dance.williams.edu/
+Fanfic club profile: https://en.wikipedia.org/wiki/Writing#/media/File:Fountain_pen_writing_(literacy).jpg
+Fanfic event: https://unsplash.com/photos/RdmLSJR-tq8
+Dog!!!! https://unsplash.com/photos/w_O_tPgxvok
