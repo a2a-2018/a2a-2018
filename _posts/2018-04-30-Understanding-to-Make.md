@@ -5,8 +5,7 @@ date: 2018-04-30
 tags: [Understanding to Make, prototypes, testing, report, heuristic, evaluation]
 ---
 
-a2a: artist2artist
-art2all
+# a2a: artist2artist, art2all
 
 **Roles**
 
