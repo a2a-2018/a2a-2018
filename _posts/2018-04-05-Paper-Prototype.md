@@ -9,8 +9,6 @@ Our paper prototype gives an overview of the main design of our product (mobile,
 
 ![Figure 1: Full Paper Prototype](/img/Full_Proto.jpg)
 
-The following images were taken in portrait orientation, and the great Google reveals that this is a chronic issue, so please pardon the sideways images.
-
 **Task 1: Event Discovery and Notification**
 
 The user finds an event that interests them.

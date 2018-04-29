@@ -66,6 +66,7 @@ We changed the appearance of all text fields in the upload page from text boxes 
 There are a few pieces of our app which, while important to the overall product, are not relevant to our two main tasks. The entire functionality relating to groups, while important for establishing how the events which users can follow appear, are not important to the discovery and notification itself, nor is it relevant to art showcasing through the app. Profile editing is similarly important, but our main focus at this point is the primary task of showcasing that art, not editing what's already been uploaded. The workflow for partaking in discussions is also not included. For the sake of creating high-fidelity prototype in four days without going overboard, we prioritized things that we thought a user would more directly encounter while performing our two main tasks.
 
 ### Image/Icon Reference
+
 We utilized a number of stock images and icons for our prototype.
 
 **Icons**
