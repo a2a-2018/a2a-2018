@@ -89,10 +89,12 @@ Star: [Iconfinder](https://www.iconfinder.com/icons/384882/decoration_holiday_st
 Down carat: [Iconfinder](https://www.flaticon.com/free-icon/arrow-down-sign-to-navigate_32195#term=down%20arrow&page=1&position=9)
 
 **Images**
+
 Profile picture 1: [Asphaltgold](https://asphaltgold.de/media/catalog/product/cache/1/image/930x669/0f396e8a55728e79b48334e699243c07/s/t/st_ssy_stock_cap_light_blue_1.jpg)
+
 Profile pic 2: [iStock](https://www.istockphoto.com/photo/asian-women-profile-gm139662784-1051955?esource=SEO_GIS_CDN_Redirect)
 
-Study in pink: [Red Starry Night by Sumit Jain] (https://images.fineartamerica.com/images-medium-large-5/red-starry-night-sumit-jain.jpg)
+Study in pink: [Red Starry Night by Sumit Jain](https://images.fineartamerica.com/images-medium-large-5/red-starry-night-sumit-jain.jpg)
 
 Blooming: [Pixabay](https://pixabay.com/en/grow-blossom-time-lapse-sequence-73354/)
 
