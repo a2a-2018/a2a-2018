@@ -28,7 +28,7 @@ Art often has difficulty making its own space in the Williams community.  Artist
 
 **Testing Results**
 
-[Link to "Usability Review" post; see sections “Testing Process” through “Results”, as well as “Most Important Revisions”](https://a2a-2018.github.io/2018-04-16-Usability-Review/)
+[Link to "Usability Review" post; see sections “Selection Process” through “Results”, as well as “Most Important Revisions”](https://a2a-2018.github.io/2018-04-16-Usability-Review/)
 
 **Final Paper Prototype**
 
