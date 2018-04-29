@@ -66,20 +66,31 @@ We changed the appearance of all text fields in the upload page from text boxes 
 There are a few pieces of our app which, while important to the overall product, are not relevant to our two main tasks. The entire functionality relating to groups, while important for establishing how the events which users can follow appear, are not important to the discovery and notification itself, nor is it relevant to art showcasing through the app. Profile editing is similarly important, but our main focus at this point is the primary task of showcasing that art, not editing what's already been uploaded. The workflow for partaking in discussions is also not included. For the sake of creating high-fidelity prototype in four days without going overboard, we prioritized things that we thought a user would more directly encounter while performing our two main tasks.
 
 ### Image/Icon Reference
+
 We utilized a number of stock images and icons for our prototype.
+
 **Icons**
 Scroll: [Flaticon](https://www.flaticon.com/free-icon/papyrus_822081#term=scroll&page=1&position=7)
+
 Camera: [Iconfinder](https://www.iconfinder.com/icons/211634/camera_icon#size=256)
+
 Home: [Iconfinder](https://www.iconfinder.com/icons/216242/home_icon#size=256)
+
 Heart: [Flaticon](https://www.flaticon.com/free-icon/like_148836#term=heart&page=1&position=1)
+
 Comment: [Flaticon](https://www.iconfinder.com/icons/216474/comment_icon#size=256)
+
 More: [Iconfinder](https://www.iconfinder.com/icons/1303881/dots_more_options_waiting_icon#size=256)
+
 Eye: [Iconfinder](https://www.iconfinder.com/icons/2303106/eye_opened_public_visible_watch_icon#size=256)
+
 Star: [Iconfinder](https://www.iconfinder.com/icons/384882/decoration_holiday_star_icon#size=256)
+
 Down carat: [Iconfinder](https://www.flaticon.com/free-icon/arrow-down-sign-to-navigate_32195#term=down%20arrow&page=1&position=9)
 
 **Images**
 Profile picture 1: [Asphaltgold](https://asphaltgold.de/media/catalog/product/cache/1/image/930x669/0f396e8a55728e79b48334e699243c07/s/t/st_ssy_stock_cap_light_blue_1.jpg)
+
 Profile pic 2: [iStock](https://www.istockphoto.com/photo/asian-women-profile-gm139662784-1051955?esource=SEO_GIS_CDN_Redirect)
 
 Study in pink: [Red Starry Night by Sumit Jain] (https://images.fineartamerica.com/images-medium-large-5/red-starry-night-sumit-jain.jpg)
