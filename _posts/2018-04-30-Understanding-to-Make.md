@@ -5,9 +5,11 @@ date: 2018-04-30
 tags: [Understanding to Make, prototypes, testing, report, heuristic, evaluation]
 ---
 
-a2a: artist2artist || art2all
+a2a: artist2artist
+art2all
 
-Roles
+**Roles**
+
 Quan Do - designer, master of the high-fidelity prototype
 Grace Mazzarella - designer, documenter, master of the paper prototype
 Dawn Wu - designer, founder, master of the high-fidelity and video prototype
