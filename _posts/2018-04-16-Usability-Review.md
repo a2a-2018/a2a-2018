@@ -4,6 +4,13 @@ title: Usability Review
 date: 2018-04-16
 tags: [assignment, review, usability, test]
 ---
+### Testing Process:
+
+The main goal for this round of user testing was to test the workflows that  we designed to complete our two tasks: art showcasing and event discovery. Additionally, because we designed an onboarding process as part of our paper prototype, we wanted to test that workflow as well. We designed our user testing method as follows: We conducted each user interview with one willing user and two team members. One team member was in charge of introducing the user to the process, assigning tasks to the user, and writing notes about the user’s actions. The other team member acted as the ‘human’ computer. We split the user test into three parts; for each part the user was asked to complete a different task. The tasks were *Setting up a new account as a new user, uploading work to personal portfolio, and discovering an event and following it*. After introducing the user to the product, we asked them to complete these three tasks while thinking aloud as much as possible. If the user asked for help, the question was noted and the interviewer would give an appropriate amount of help. 
+
+### Selection Process:
+
+For participants, our team chose to user test three different students on campus. We decided to interview a student that we had previously performed a contextual inquiry with because he already knew the context of our project, so could potentially perform all the tasks but more importantly could give broader feedback on the designs in how they help achieve the broader goal of our project. For the other two interviewees, we chose one artist and one non-artist (both students) to cover the different potential user groups. 
 
 ### Usability Tests
 
@@ -11,7 +18,7 @@ tags: [assignment, review, usability, test]
 
 KY is an undergraduate student at Williams studying Computer Science. KY represents our typical user, a student at a rural, small college who produces art in their spare time, and constantly seeks out new arts and artists in the vicinity. We conducted the test in Jesup, one of the prime study spots on campus (students work on works and look through phone to explore).
 
-For the test, we provided some background on our project and explained that we want him to complete a task on the interface, thinking out loud in the process. We described each task we wanted KY to do before letting him use the application and did not answer questions or provide help as he was performing the tasks. Quan was the computer, Grace was the observer, and both were the facilitator.
+For the test, we provided some background on our project and explained that we want him to complete a task on the interface, thinking out loud in the process. We described each task we wanted KY to do before letting him use the application and did not answer questions or provide help as he was performing the tasks. Quan was the computer, Grace was the observer, and both were facilitators.
 
 From this interview, there were a couple of workflows in our app that trapped a user on screens (lacking back buttons in our paper prototypes), so we quickly added those in for the second and third user interviews. We also had some issues with our tasks not being specific enough, which caused KY to stray from the path we intended they’d take, and so we revised our tasks to be more specific for the next two tests.
 
@@ -19,7 +26,7 @@ From this interview, there were a couple of workflows in our app that trapped a 
 
 LL is an undergraduate student at Williams. LL represents our typical user, a student at a rural, small college who does art, actively participates in collaborations and wants to find other artists on campus. We conducted the test in Mission, a typical study spot for LL.
 
-For this test, we provided background information on the app, presented a scenario and had LL fulfill our two revised tasks given the scenario. We described each task we wanted LL to do, prompting them to think aloud before letting them use the application and did not answer questions or provide help as they was performing the tasks. Grace was the computer, Dawn was the observer, and both were facilitators.
+For this test, we provided background information on the app, presented a scenario and had LL fulfill our two revised tasks given the scenario. We described each task we wanted LL fulfill (giving context with an appropriate scenario), asked them to think aloud before letting them use the application and did not answer questions or provide help as they was performing the tasks. Because we had previously run into issues with a user telling us what actions they *would have done* instead of physically acting them (i.e. "I would press this button" vs. using their finger to press the part of the paper prototype that represented a button), we specifically informed the interviewee that nothing would happen if they did not physically interact with the paper prototype. Grace was the computer, Dawn was the observer, and both were facilitators.
 
 From this interview, both tasks were easily accomplished with the new back buttons and the more concrete sense of direction, so LL did not have any pressing issues. There was some confusion about button placement on the feed, but we did not immediately change this feature for the next tester, as the time between before our next test was too short to change all of the paper prototypes. 
 
@@ -27,7 +34,7 @@ From this interview, both tasks were easily accomplished with the new back butto
 
 SM is an undergraduate student at Williams. SM represents an atypical user, as they appreciate and produce art, but have never really been invested in the local art community here. We conducted the test in Sawyer Library, a favored work and study spot for SM. 
 
-For the test, we provided the usual background information on the app, presented our scenario and had SM fulfill our two tasks based on this. We described each task we wanted SM to do, prompting them to think aloud before letting them use the application, and did not answer questions or provide help as they were performing the tasks. Grace was the computer, Dawn was the observer, and both were facilitators.
+For the test, we provided the usual background information on the app, presented our scenario and had SM fulfill our two tasks based on this. We described each task we wanted SM to do (giving context with an appropriate scenario), prompted them to think aloud before letting them use the application, and did not answer questions or provide help as they were performing the tasks. Grace was the computer, Dawn was the observer, and both were facilitators.
 
 As with LL, both tasks were easily accomplished with the new back buttons and concrete sense of direction guiding the tasks, so SM did not have any pressing issues. There was still some confusion about button placement and overall app functionality, as the user was not aware of capabilities of the app.
 
