@@ -10,7 +10,9 @@ tags: [Understanding to Make, prototypes, testing, report, heuristic, evaluation
 **Roles**
 
 Quan Do - designer, master of the high-fidelity prototype
+
 Grace Mazzarella - designer, documenter, master of the paper prototype
+
 Dawn Wu - designer, founder, master of the high-fidelity and video prototype
 
 **Problem and Solution Overview**
